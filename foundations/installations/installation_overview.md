@@ -81,4 +81,4 @@ With that out of the way, we need to set up an appropriate development environme
 
 This section contains helpful links to related content. It isn’t required, so consider it supplemental.
 
-- It looks like this lesson doesn't have any additional resources yet. Help us expand this section by contributing to our curriculum.
+- If you are currently using a Windows based system such as Windows 11, and you want to see what is like to code with Linux, you can watch [this video](https://www.youtube.com/watch?v=mXyN1aJYefc&ab_channel=Robtech). This resource shows you how to dual-boot your Windows 11 system with the Ubuntu distro.
